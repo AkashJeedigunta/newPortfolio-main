@@ -5,7 +5,7 @@ export function Footer() {
     <footer className="bg-slate-900 text-slate-300 py-12">
       <div className="container mx-auto px-4">
         <div className="text-center">
-          <div className="text-2xl font-bold gradient-text mb-4">John Anderson</div>
+          <div className="text-2xl font-bold gradient-text mb-4">Akash Jeedigunta</div>
           <p className="mb-6">Full Stack Developer • Problem Solver • Tech Enthusiast</p>
           
           <div className="flex justify-center space-x-6 mb-6">
@@ -24,7 +24,7 @@ export function Footer() {
           </div>
           
           <div className="text-sm text-slate-400">
-            © 2024 John Anderson. All rights reserved. Built with passion and modern web technologies.
+            © 2024 Akash Jeedigunta. All rights reserved. Built with passion and modern web technologies.
           </div>
         </div>
       </div>
