@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "dev:modern": "node start-modern.js",
+    "dev:node18": "node start-local.js", 
+    "build:deploy": "node build-deploy.js",
+    "deploy": "npm run build:deploy && git add . && git commit -m 'Deploy to GitHub Pages' && git push origin main"
+  },
+  "description": "Additional scripts for different Node.js versions and deployment"
+}

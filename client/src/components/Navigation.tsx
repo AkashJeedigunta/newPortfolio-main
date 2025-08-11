@@ -35,7 +35,7 @@ export function Navigation() {
     }`}>
       <div className="container mx-auto px-4 py-4">
         <div className="flex items-center justify-between">
-          <div className="text-xl font-bold gradient-text animate-pulse-glow cursor-pointer hover:scale-110 transition-transform duration-300">JA</div>
+          <div className="text-xl font-bold gradient-text animate-pulse-glow cursor-pointer hover:scale-110 transition-transform duration-300">AJ</div>
           
           <div className="hidden md:flex items-center space-x-8">
             <button 
